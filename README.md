@@ -3,6 +3,8 @@
 
 run bch click bot telegram via vps
 
+# link vps      👉👉👉👉👉      https://1ink.info/gAvNS
+
 link bot bch https://t.me/BCH_clickbot?start=wq3D
 
 # install method
